@@ -1,0 +1,17 @@
+# Neovim
+*.swp
+*.swo
+*~
+.netrwhist
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Development
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Misc
+.luacheckrc

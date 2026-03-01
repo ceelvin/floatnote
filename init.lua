@@ -1,0 +1,1 @@
+return require("floatnote.floatnote")
