@@ -102,7 +102,7 @@ You can access and edit this file directly if needed. The plugin automatically c
 - **Size**: 50% of your editor width and 50% of your editor height
 - **Position**: Centered on your screen
 - **Style**: Minimal with rounded border
-- **Title**: Displayed as " 📝 Note / Todo List " at the top center
+- **Title**: Displayed as " Note / Todo List " at the top center
 
 ### Editor Features
 
